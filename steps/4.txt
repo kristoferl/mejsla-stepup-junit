@@ -1,0 +1,6 @@
+
+
+Excluded
+- Extension model
+- Platform Launcher API,
+  used by clients like build tools and IDEs
